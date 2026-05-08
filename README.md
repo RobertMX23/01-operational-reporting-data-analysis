@@ -62,6 +62,23 @@ The project follows a structured analytics workflow:
 
 ---
 
+## Expected Output 
+
+At the end of the project, the repository will include:
+
+A cleaned dataset
+SQL queries for business analysis
+Operational KPIs
+Reporting notes
+Dashboard documentation
+Executive summary
+Business recommendations
+Status
+
+In progress.
+
+---
+
 ## Repository Structure
 
 ```text
@@ -86,3 +103,26 @@ The project follows a structured analytics workflow:
 │
 └── docs/
     └── data_dictionary.md
+```
+
+---
+
+## Expected Output 
+
+At the end of the project, the repository will include:
+
+- A cleaned dataset
+- SQL queries for business analysis
+- Operational KPIs
+- Reporting notes
+- Dashboard documentation
+- Executive summary
+- Business recommendations
+
+---
+
+## Status
+- In progress
+
+---
+
